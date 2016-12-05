@@ -1,2 +1,2 @@
-print("goodbye, world!")
-print("See ya later")
+print("goodbye, world!;")
+print("See ya later;")
