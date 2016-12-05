@@ -1,1 +1,1 @@
-alert("KEK")
+alert("KEK, кнк")
